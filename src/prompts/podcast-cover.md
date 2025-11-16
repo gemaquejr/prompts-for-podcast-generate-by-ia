@@ -1,0 +1,9 @@
+📝 Prompt: Identidade Visual do Podcast
+🎯 Objetivo
+Criar a imagem de capa do podcast, transmitindo proximidade, leveza e inspiração, com elementos que remetam a podcast e tecnologia.
+
+🛠️ Ferramenta utilizada
+Canva IA
+
+💬 Prompt utilizado
+Quero que a imagem apresente um homem calvo ilustrada com elementos de podcast de tecnologia, transmitindo alegria e leveza.
