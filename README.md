@@ -1,4 +1,4 @@
-🎧 Bug de Primeira Viagem
+# 🎧 Bug de Primeira Viagem
 
 Onde os perrengues viram histórias e os bugs viram aprendizado
 
@@ -9,7 +9,7 @@ Criado durante o Bootcamp Universia – Fundamentos de IA Generativa, em parceri
 
 É conteúdo feito por dev, pra dev — especialmente para quem ainda está descobrindo os mistérios (e a comédia) dessa área maravilhosa.
 
-🚀 Sobre o Projeto
+## 🚀 Sobre o Projeto
 
 Este projeto nasceu como parte do desafio prático do bootcamp, cujo objetivo era criar um conteúdo original utilizando inteligência artificial de forma criativa e colaborativa.
 
@@ -25,7 +25,7 @@ Criar uma experiência divertida e acolhedora sobre aprender a programar.
 
 Se você já chorou por causa de um ; faltando, já brigou com o flexbox ou já culpou o React por um erro seu… este podcast é pra você.
 
-🎙️ Estrutura do Episódio
+## 🎙️ Estrutura do Episódio
 
 Cada episódio segue um formato leve, bem-humorado e direto ao ponto:
 
@@ -41,7 +41,8 @@ Cada episódio segue um formato leve, bem-humorado e direto ao ponto:
 
 🧠 Roteiro e narrativa: cocriados com IA Generativa (ChatGPT)
 
-📚 Objetivos do Desafio
+
+## 📚 Objetivos do Desafio
 
 Utilizar IA generativa na criação de conteúdo original e com personalidade;
 
@@ -53,7 +54,7 @@ Demonstrar como IA pode complementar — e não substituir — a criatividade hu
 
 Publicar áudio e roteiro final em um repositório GitHub.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 ChatGPT: apoio na escrita, humor, narrativa e refinamento do tom;
 
